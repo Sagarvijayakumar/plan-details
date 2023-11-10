@@ -1,0 +1,36 @@
+body{
+    background-color: blue;
+}
+div{
+    height: 500px;
+    width: 20%;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px 50px;
+}
+section{
+    display: flex;
+    justify-content: space-between;
+}
+main{
+    text-align: center;
+    border-bottom: 2px solid rgb(79, 78, 78);
+}
+article{
+    text-align: justify;
+    margin-left: 20px;
+}
+button{
+    padding: 10px 120px;
+    border-radius: 20px;
+    background-color: royalblue;
+    color: white;
+}
+#free{
+    margin-top: -5px;
+    color: lightslategray;
+}
+button:hover{
+    background-color: blue;
+}
