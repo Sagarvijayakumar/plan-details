@@ -1,2 +1,0 @@
-# plan-details
-THREE PLANS
